@@ -24,7 +24,7 @@ Les livrables du projet sont les suivants :
 - L'interview du mentor.
 
 ## Ressources
-Voici les ressources que vous pouvez utiliser pour réaliser les tâches du projet :
+Voici les ressources utilisées pour réaliser les tâches du projet :
 
 - Présentation du projet
 - Wikipedia Language Identification Database
